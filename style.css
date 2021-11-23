@@ -49,11 +49,13 @@
   padding: 0px;
 }
 
-.task-item, .task-title {
+.task-item,
+.task-title {
   list-style: none;
 }
 
-.input,.btn{
+.input,
+.btn {
   outline: none;
 }
 
@@ -136,7 +138,7 @@
   width: 226px;
 }
 
-.task-item >  .input {
+.task-item > .input {
   width: 226px;
 }
 
