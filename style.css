@@ -117,7 +117,10 @@
   align-items: center;
 }
 
-.task-item > * {
+.task-item__checkbox,
+.task-item__label,
+.task-item__input,
+.btn {
   vertical-align: middle;
 }
 
